@@ -1,0 +1,2 @@
+2022-02-04 09:43:19.594 ERROR 12968 --- [main] com.example.logs.Controlador             : Error desde controlador
+2022-02-04 09:43:19.594  WARN 12968 --- [main] com.example.logs.Controlador             : warn desde controlador
